@@ -1,2 +1,2 @@
-# (https://mkhan-mk.github.io/one/)
+# https://mkhan-mk.github.io/one/
 # allag-is-one
